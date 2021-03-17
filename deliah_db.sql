@@ -74,8 +74,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `lastame`, `tel`, `type`) VALUES
-(1, 'franco', 'marquez', 4562387, 'admin'),
-(2, 'meli', 'grenon', 45621354, 'employee');
+(1, 'meli', 'grenon', 45621354, 'employee');
 
 --
 -- Índices para tablas volcadas
