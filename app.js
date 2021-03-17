@@ -15,4 +15,6 @@ dbSetup.getProducts().then((data) => {
   dbApi.getProductsApi(data)
 })
 
+/*funciona*/
+
 
